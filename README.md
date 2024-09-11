@@ -1,8 +1,15 @@
-# React + Vite
+# iTask-Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+iTask Manager is a modern todo list application designed to help users organize their tasks efficiently. Built using React for the frontend and Node.js for the backend, it offers a seamless user experience with powerful features to manage tasks effortlessly.The project utilizes Tailwind CSS for styling and UUID library for generating unique identifiers.
 
-Currently, two official plugins are available:
+**Description**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+iTask Manager provides a clean and intuitive interface for users to create, edit, prioritize, and mark tasks as complete. With its responsive design, users can access and manage their tasks seamlessly across various devices.
+
+**Key Features**
+
+* Task Creation: Easily add new tasks with customizable details such as title, description and finished task.
+* Task Management: Edit, delete, or mark tasks as complete with simple interactions.
+* User Interface: Designed with the help of Particle.js.
+* Responsive Design: Optimized for desktop, tablet, and mobile devices, ensuring a consistent experience across platforms.
+* Data Persistence: Tasks are stored securely on the backend, ensuring data integrity and reliability.
